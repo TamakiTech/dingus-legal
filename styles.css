@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  background: #110e0b;
+  color: #f7eede;
+  font: 18px/1.55 Georgia, "Times New Roman", serif;
+}
+
+main {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.4rem 4rem;
+}
+
+.brand {
+  margin: 0 0 0.4rem;
+  color: #e4c36a;
+  font-family: "Arial Black", Impact, sans-serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+  margin: 0 0 1.6rem;
+}
+
+h1 {
+  font-family: "Arial Black", Impact, sans-serif;
+  font-size: 3rem;
+  line-height: 0.9;
+  margin: 0 0 1rem;
+}
+
+p {
+  color: #cbbba6;
+}
+
+a {
+  color: #e4c36a;
+}
+
+.footer {
+  margin-top: 2.4rem;
+  font-size: 0.95rem;
+}
